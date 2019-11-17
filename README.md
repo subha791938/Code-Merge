@@ -254,7 +254,7 @@
                subtract APPL-RESULT from APPL-RESULT
                move 'O' to CUSTLFFL-OPEN-FLAG
            else
-               add 16 to ZERO giving APPL-RESULT            ----- AIRP
+              add 16 to ZERO giving APPL-RESULT            ----- AIRP
            end-if
            if  APPL-AOK
                CONTINUE
